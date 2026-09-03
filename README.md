@@ -1,5 +1,17 @@
 ![Juairah Imam Nafisa - Full Stack Developer](./ChatGPT%20Image%20Sep%203%2C%202026%2C%2006_40_05%20PM.png)
 <h1 align="center">Hi 👋, I'm Juairah Imam Nafisa</h1>
+## 👩‍💻 About Me
+
+A Computer Science and Engineering student at **BRAC University** with a passion for building things with technology.
+
+- 🎓 Currently pursuing my **B.Sc. in Computer Science and Engineering** at BRAC University
+- 💻 Currently learning the **MERN Stack** and developing my skills in full-stack web development
+- 🚀 Aspiring to become a **Full Stack Developer / Software Engineer**
+- 🧠 Interested in **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**
+- 🧩 Enjoy exploring **Data Structures, Algorithms, and problem-solving**
+- 🌱 Always learning, experimenting, and looking for opportunities to turn ideas into practical projects
+
+> **Learning today, building tomorrow. 🚀**
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Mern Stack**
