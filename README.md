@@ -1,3 +1,4 @@
+![Juairah Imam Nafisa - Full Stack Developer Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm Juairah Imam Nafisa</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
