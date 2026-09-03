@@ -29,5 +29,12 @@ A Computer Science and Engineering student at **BRAC University** with a passion
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juairahimam&" alt="juairahimam" /></p>
 ## 📌 Featured Projects
 
-- 🌐 **DEVCONF 2026** — [View Repository](https://github.com/JuairahImam/devconf)
-- 💻 **Project 2** — [View Repository](https://github.com/JuairahImam/repo2)
+### 🌐 DEVCONF 2026
+A simple conference webpage built with **HTML and CSS**. This was a fun project that helped me practice the fundamentals of web design and create a clean, structured webpage.
+
+🔗 [View Repository](https://github.com/JuairahImam/devconf)
+
+### 🧪 HTML Practice Project
+A small project created while experimenting with **HTML** and getting comfortable with the basics of building webpages. A simple trial project as part of my learning journey.
+
+🔗 [View Repository](https://github.com/JuairahImam/repo2)
