@@ -30,11 +30,22 @@ A Computer Science and Engineering student at **BRAC University** with a passion
 ## 📌 Featured Projects
 
 ### 🌐 DEVCONF 2026
-A simple conference webpage built with **HTML and CSS**. This was a fun project that helped me practice the fundamentals of web design and create a clean, structured webpage.
 
-🔗 [View Repository](https://github.com/JuairahImam/devconf)
+A modern and responsive conference landing page built using **HTML5** and **CSS3**. The project includes a hero banner, responsive navigation, speakers section, pricing plans, Developer Challenge 2026, and a clean modern UI. Created as an assignment to practice the fundamentals of web design and responsive layouts.
+
+**Tech Stack:** HTML5 • CSS3
+
+🌐 **[Live Demo](https://juairahimam.github.io/devconf/)**  
+📖 **[Project README](https://github.com/JuairahImam/devconf/blob/main/README.md)**  
+💻 **[Source Code](https://github.com/JuairahImam/devconf)**
+
+---
 
 ### 🧪 HTML Practice Project
-A small project created while experimenting with **HTML** and getting comfortable with the basics of building webpages. A simple trial project as part of my learning journey.
 
-🔗 [View Repository](https://github.com/JuairahImam/repo2)
+A simple practice repository created while learning and experimenting with **HTML5**. It contains basic HTML code written to understand how different elements work, how webpage structure is created, and how HTML code behaves when displayed in a browser.
+
+**Tech Stack:** HTML5
+
+📖 **[Project README](https://github.com/JuairahImam/repo2/blob/main/README.md)**  
+💻 **[Source Code](https://github.com/JuairahImam/repo2)**
