@@ -1,4 +1,4 @@
-![Juairah Imam Nafisa - Full Stack Developer Banner](./ChatGPT Image Sep 3, 2026, 06_40_05 PM.png)
+![Juairah Imam Nafisa - Full Stack Developer](./ChatGPT%20Image%20Sep%203%2C%202026%2C%2006_40_05%20PM.png)
 <h1 align="center">Hi 👋, I'm Juairah Imam Nafisa</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
